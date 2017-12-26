@@ -1,0 +1,1 @@
+# -*- coding: utf-8 -*-print('Hello,World!')print("Hello Again")print("I like typing this")print('This is fun.')print('Yay,Printing')print("I'd much rather you 'not'")print("I 'said' do not touch this.")print('我爱中国！') #含有中文时需要在代码的首行加# -*- coding: utf-8 -*-                  #但是在Sublime Text 3中则不需要，具体原因待查

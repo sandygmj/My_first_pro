@@ -1,0 +1,4 @@
+This file's data are going to copy to the to file.
+这是第二行。
+第三行，
+本文本是用来做练习使用。
